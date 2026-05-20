@@ -1,4 +1,4 @@
-# Hi, I'm Sean
+# Hi, I'm Liu Xian
 
 Full-stack developer, building things with TypeScript, Go, and Rust.
 
